@@ -1,0 +1,39 @@
+[00:00:01.091] Server  LOG      ✓ Ready in 669ms
+[00:00:03.541] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:00:04.081] Server  ERROR   C:\Users\zero1\service-marketplace\.next\dev\server\chunks\node_modules_mysql2_84e924d7._.js: Invalid source map. Only conformant source maps can be used to find the original code. Cause: Error: sourceMapURL could not be parsed
+[00:00:04.083] Server  ERROR   C:\Users\zero1\service-marketplace\.next\dev\server\chunks\[root-of-the-server]__568608de._.js: Invalid source map. Only conformant source maps can be used to find the original code. Cause: Error: sourceMapURL could not be parsed
+[00:00:04.097] Server  ERROR   C:\Users\zero1\service-marketplace\node_modules\next\dist\compiled\next-server\app-route-turbo.runtime.dev.js: Invalid source map. Only conformant source maps can be used to find the original code. Cause: Error: sourceMapURL could not be parsed
+[00:00:04.099] Server  ERROR   C:\Users\zero1\service-marketplace\node_modules\next\dist\server\lib\trace\tracer.js: Invalid source map. Only conformant source maps can be used to find the original code. Cause: Error: sourceMapURL could not be parsed
+[00:00:04.101] Server  ERROR   Services GET error: Error
+[00:00:05.085] Browser ERROR   uncaughtError: TypeError: bookings.map is not a function
+[00:00:07.872] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:00:07.934] Server  ERROR   C:\Users\zero1\service-marketplace\.next\dev\server\chunks\node_modules_mysql2_84e924d7._.js: Invalid source map. Only conformant source maps can be used to find the original code. Cause: Error: sourceMapURL could not be parsed
+[00:00:07.936] Server  ERROR   C:\Users\zero1\service-marketplace\.next\dev\server\chunks\[root-of-the-server]__568608de._.js: Invalid source map. Only conformant source maps can be used to find the original code. Cause: Error: sourceMapURL could not be parsed
+[00:00:07.940] Server  ERROR   C:\Users\zero1\service-marketplace\node_modules\next\dist\compiled\next-server\app-route-turbo.runtime.dev.js: Invalid source map. Only conformant source maps can be used to find the original code. Cause: Error: sourceMapURL could not be parsed
+[00:00:07.942] Server  ERROR   C:\Users\zero1\service-marketplace\node_modules\next\dist\server\lib\trace\tracer.js: Invalid source map. Only conformant source maps can be used to find the original code. Cause: Error: sourceMapURL could not be parsed
+[00:00:07.945] Server  ERROR   Services GET error: Error
+[00:00:08.059] Browser ERROR   uncaughtError: TypeError: bookings.map is not a function
+[00:00:52.050] Server  WARN     ⚠ Fast Refresh had to perform a full reload due to a runtime error.
+[00:00:52.074] Server  LOG      ✓ Compiled in 67ms
+[00:00:52.576] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:00:52.629] Server  ERROR   C:\Users\zero1\service-marketplace\.next\dev\server\chunks\node_modules_mysql2_84e924d7._.js: Invalid source map. Only conformant source maps can be used to find the original code. Cause: Error: sourceMapURL could not be parsed
+[00:00:52.630] Server  ERROR   C:\Users\zero1\service-marketplace\.next\dev\server\chunks\[root-of-the-server]__568608de._.js: Invalid source map. Only conformant source maps can be used to find the original code. Cause: Error: sourceMapURL could not be parsed
+[00:00:52.632] Server  ERROR   C:\Users\zero1\service-marketplace\node_modules\next\dist\compiled\next-server\app-route-turbo.runtime.dev.js: Invalid source map. Only conformant source maps can be used to find the original code. Cause: Error: sourceMapURL could not be parsed
+[00:00:52.633] Server  ERROR   C:\Users\zero1\service-marketplace\node_modules\next\dist\server\lib\trace\tracer.js: Invalid source map. Only conformant source maps can be used to find the original code. Cause: Error: sourceMapURL could not be parsed
+[00:00:52.634] Server  ERROR   Services GET error: Error
+[00:06:24.811] Server  ERROR   C:\Users\zero1\service-marketplace\.next\dev\server\chunks\node_modules_mysql2_84e924d7._.js: Invalid source map. Only conformant source maps can be used to find the original code. Cause: Error: sourceMapURL could not be parsed
+[00:06:24.813] Server  ERROR   C:\Users\zero1\service-marketplace\.next\dev\server\chunks\[root-of-the-server]__62762bba._.js: Invalid source map. Only conformant source maps can be used to find the original code. Cause: Error: sourceMapURL could not be parsed
+[00:06:24.814] Server  ERROR   C:\Users\zero1\service-marketplace\node_modules\next\dist\compiled\next-server\app-route-turbo.runtime.dev.js: Invalid source map. Only conformant source maps can be used to find the original code. Cause: Error: sourceMapURL could not be parsed
+[00:06:24.815] Server  ERROR   C:\Users\zero1\service-marketplace\node_modules\next\dist\server\lib\trace\tracer.js: Invalid source map. Only conformant source maps can be used to find the original code. Cause: Error: sourceMapURL could not be parsed
+[00:06:24.816] Server  ERROR   Bookings fetch error: Error
+[00:06:24.858] Server  LOG      ✓ Compiled in 133ms
+[00:06:30.626] Server  ERROR   C:\Users\zero1\service-marketplace\.next\dev\server\chunks\node_modules_mysql2_84e924d7._.js: Invalid source map. Only conformant source maps can be used to find the original code. Cause: Error: sourceMapURL could not be parsed
+[00:06:30.627] Server  ERROR   C:\Users\zero1\service-marketplace\.next\dev\server\chunks\[root-of-the-server]__568608de._.js: Invalid source map. Only conformant source maps can be used to find the original code. Cause: Error: sourceMapURL could not be parsed
+[00:06:30.628] Server  ERROR   C:\Users\zero1\service-marketplace\node_modules\next\dist\compiled\next-server\app-route-turbo.runtime.dev.js: Invalid source map. Only conformant source maps can be used to find the original code. Cause: Error: sourceMapURL could not be parsed
+[00:06:30.629] Server  ERROR   C:\Users\zero1\service-marketplace\node_modules\next\dist\server\lib\trace\tracer.js: Invalid source map. Only conformant source maps can be used to find the original code. Cause: Error: sourceMapURL could not be parsed
+[00:06:30.631] Server  ERROR   Services GET error: Error
+[00:06:30.644] Server  ERROR   C:\Users\zero1\service-marketplace\.next\dev\server\chunks\node_modules_mysql2_84e924d7._.js: Invalid source map. Only conformant source maps can be used to find the original code. Cause: Error: sourceMapURL could not be parsed
+[00:06:30.645] Server  ERROR   C:\Users\zero1\service-marketplace\.next\dev\server\chunks\[root-of-the-server]__568608de._.js: Invalid source map. Only conformant source maps can be used to find the original code. Cause: Error: sourceMapURL could not be parsed
+[00:06:30.646] Server  ERROR   C:\Users\zero1\service-marketplace\node_modules\next\dist\compiled\next-server\app-route-turbo.runtime.dev.js: Invalid source map. Only conformant source maps can be used to find the original code. Cause: Error: sourceMapURL could not be parsed
+[00:06:30.647] Server  ERROR   C:\Users\zero1\service-marketplace\node_modules\next\dist\server\lib\trace\tracer.js: Invalid source map. Only conformant source maps can be used to find the original code. Cause: Error: sourceMapURL could not be parsed
+[00:06:30.648] Server  ERROR   Services GET error: Error

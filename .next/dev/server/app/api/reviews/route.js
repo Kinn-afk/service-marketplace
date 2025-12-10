@@ -1,0 +1,10 @@
+var R=require("../../../chunks/[turbopack]_runtime.js")("server/app/api/reviews/route.js")
+R.c("server/chunks/b454d_next_70efc81d._.js")
+R.c("server/chunks/b454d_mysql2_e6009d39._.js")
+R.c("server/chunks/b454d_iconv-lite_e8508020._.js")
+R.c("server/chunks/b454d_aws-ssl-profiles_lib_54ac65c9._.js")
+R.c("server/chunks/b454d_575387e6._.js")
+R.c("server/chunks/[root-of-the-server]__ae920fc8._.js")
+R.c("server/chunks/service-marketplace__next-internal_server_app_api_reviews_route_actions_ebb8795b.js")
+R.m("[project]/service-marketplace/node_modules/next/dist/esm/build/templates/app-route.js { INNER_APP_ROUTE => \"[project]/service-marketplace/app/api/reviews/route.js [app-route] (ecmascript)\" } [app-route] (ecmascript)")
+module.exports=R.m("[project]/service-marketplace/node_modules/next/dist/esm/build/templates/app-route.js { INNER_APP_ROUTE => \"[project]/service-marketplace/app/api/reviews/route.js [app-route] (ecmascript)\" } [app-route] (ecmascript)").exports

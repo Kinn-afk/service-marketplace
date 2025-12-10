@@ -1,0 +1,6 @@
+- [x] Implement work photos upload feature for providers after booking completion
+- [ ] Add work photos viewing for customers in booking details
+- [ ] Implement messaging system between customers and providers
+- [ ] Add messages tab/section to dashboard
+- [ ] Update dashboard navigation to include messages
+- [ ] Test work photos and messages functionality
